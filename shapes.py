@@ -4,7 +4,7 @@ Description: Program defines classes Circle, Rectangle, Square shape that get co
              These classes inherit from class Shape, so have the same functions.
              Program also has function compound that combine two squares or
              rectangles or square and rectangle and create new shape.
-Date: 19/08/24
+Date: 2/09/24
 """
 
 
