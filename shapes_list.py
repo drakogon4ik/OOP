@@ -3,7 +3,7 @@ Author: Oleg Shkolnik יא9.
 Description: Program defines class Container that generates list of n random shapes.
              Class can return sum of areas, sum of perimeters and
              how many shapes each color program generated as a dictionary.
-Date: 19/08/24
+Date: 2/09/24
 """
 
 
