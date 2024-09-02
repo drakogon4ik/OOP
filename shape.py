@@ -2,7 +2,7 @@
 Author: Oleg Shkolnik יא9.
 Description: Program defines class Shape that gets color, area, perimeter and type of shape.
              Class can return color and has sentence for printing.
-Date: 19/08/24
+Date: 2/09/24
 """
 
 
